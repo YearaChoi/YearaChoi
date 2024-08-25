@@ -22,6 +22,6 @@
 
 ### 🏆 수상내역 🏆
 
-2024.06 - 2024 BizFlow Pre-Contest **대상** <br/>
 2024.08 - 2024 BizFlow Main-Contest **최우수상** (Handong Mate) <br/>
+2024.06 - 2024 BizFlow Pre-Contest **대상** <br/>
 2024.06 - 멋쟁이사자처럼 포트폴리오 프로젝트 **최우수상** (GROOM) <br/>
