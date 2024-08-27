@@ -25,3 +25,7 @@
 2024.08 - 2024 BizFlow M Contest **최우수상** (Handong Mate) <br/>
 2024.06 - 2024 BizFlow M Pre-Contest **대상** <br/>
 2024.06 - 멋쟁이사자처럼 포트폴리오 프로젝트 **최우수상** (GROOM) <br/>
+
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YearaChoi)](https://github.com/anuraghazra/github-readme-stats)
