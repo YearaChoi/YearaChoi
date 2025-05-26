@@ -11,6 +11,7 @@
 
 ### 💻 프로젝트 💻
 
+2025.01 ~ 05 Smart IoT 조명 관리 서비스 UI 개발 (Capstone 2) <br/>
 2024.11 ~ 12 일상공유 앱 서비스 (Today Together) <br/>
 2024.09 ~ 12 - IoT 기반 스마트 조명 관리 UI 서비스 개발 (Capstone 1) <br/>
 2024.08 - BizFlow 이상적인 룸메이트 매칭 서비스 (Handong Mate) <br/>
